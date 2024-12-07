@@ -27,7 +27,7 @@ const CONFIG = {
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
   // 英雄区显示三个置顶分类
-  HEO_HERO_CATEGORY_1: { title: '中老', url: '/tag/中考' },
+  HEO_HERO_CATEGORY_1: { title: '中老', url: '/tag/中老' },
   HEO_HERO_CATEGORY_2: { title: '胖熊', url: '/tag/胖熊' },
   HEO_HERO_CATEGORY_3: { title: '正装', url: '/tag/正装' },
 
